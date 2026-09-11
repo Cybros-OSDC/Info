@@ -1,6 +1,6 @@
-# Roles & Responsibilities
+# Rules
 
-Describes each OSDC role — what it is, what it's responsible for, and its goal.
+Rules that apply to each OSDC role.
 
 - [Coordinator](coordinator.md)
 - [Student / Member](student.md)
