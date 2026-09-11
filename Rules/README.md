@@ -8,4 +8,4 @@ Rules that apply to each OSDC role.
 - [Code & PR Reviewer](pr-reviewer.md)
 - [Design & Branding Lead](design-branding-lead.md)
 - [Technical Mentor](technical-mentor.md)
-- [Operations & Management Team](management.md)
+- [Operations & Management Team](management.md) 
