@@ -16,10 +16,7 @@ If you're new to OSDC, **start here!** 🌱
     - [Who is OSDC for?](#who-is-osdc-for)
 
 - [Community](#-community)
-- [Projects & Contributions](#-projects--contributions)
-- [Repository Structure](#-repository-structure)
 - [Open Source Opportunities](#-open-source-opportunities)
-- [Stay Connected](#-stay-connected)
 
 ---
 
@@ -125,69 +122,6 @@ Explore different areas and find what interests you.
 
 ---
 
-# 🛠 Projects & Contributions
-
-OSDC projects give members an opportunity to experience collaborative software development.
-
-A typical project may involve:
-
-```text
-Idea
- ↓
-Discussion
- ↓
-Planning
- ↓
-Issues
- ↓
-Development
- ↓
-Pull Requests
- ↓
-Code Review
- ↓
-Testing
- ↓
-Release
-```
-
-Before contributing to a repository, make sure to read its:
-
-```text
-README.md
-CONTRIBUTING.md
-LICENSE
-```
-
-and check the project's **Issues**.
-
-If you have an idea for a project, discuss it with the community. If enough people are interested, form a team and start building it.
-
----
-
-# 📂 Repository Structure
-
-This repository contains information and resources related to Cybros OSDC.
-
-```text
-Info/
-│
-├── Guides/
-│   └── Resources and guides for contributors
-│
-├── Members/
-│   └── Community and member information
-│
-├── Presentations/
-│   └── Slides and resources from OSDC sessions
-│
-├── Roles/
-│   └── Information about roles and responsibilities
-│
-└── README.md
-    └── You are here :)
-```
-
 ### 📖 Guides
 
 Useful guides and resources for learning development and contributing to open source.
@@ -235,43 +169,3 @@ A program offering internships with open-source and open-science communities.
 An annual event encouraging developers to participate in open source.
 
 These programs should not be the **reason** you contribute to open source — think of them as opportunities that become accessible as you gain experience working with open-source communities.
-
----
-
-# 🔗 Stay Connected
-
-### Cybros OSDC
-
-🐙 **GitHub:**
-https://github.com/Cybros-OSDC
-
-📧 **Email:**
-[cybrosclub@lnmiit.ac.in](mailto:cybrosclub@lnmiit.ac.in)
-
-For discussions, announcements, project updates, sessions, and contribution opportunities, stay connected with the Cybros OSDC community.
-
----
-
-<div align="center">
-
-## 🚀 Start Building
-
-You don't need to know everything before contributing.
-
-Pick something interesting.
-Read the code.
-Ask questions.
-Build something.
-Break something.
-Fix it.
-Open a PR.
-
-**That's how you learn open source.**
-
-<br>
-
-### Cybros OSDC
-
-**Learn • Build • Collaborate • Contribute**
-
-</div>
