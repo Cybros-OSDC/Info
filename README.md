@@ -1,26 +1,10 @@
-# Cybros OSDC — Getting Started 🚀
+# Cybros OSDC
 
 Welcome to **Cybros OSDC (Open Source Developers Community)**, the open-source wing of the **Cybros Coding Club, LNMIIT**.
 
 This repository is the central place for information about the community — how OSDC works, how to get involved, member information, roles, guides, presentations, and other useful resources.
 
-If you're new to OSDC, **start here!** 🌱
-
 ---
-
-## 📑 Table of Contents
-
-- [About OSDC](#-about-osdc)
-    - [What is OSDC?](#what-is-osdc)
-    - [What do we do?](#what-do-we-do)
-    - [Who is OSDC for?](#who-is-osdc-for)
-
-- [Community](#-community)
-- [Open Source Opportunities](#-open-source-opportunities)
-
----
-
-# 🌐 About OSDC
 
 ### What is OSDC?
 
@@ -66,62 +50,6 @@ And anything else the community finds interesting.
 
 ---
 
-### Who is OSDC for?
-
-**Everyone interested in technology and open source is welcome.**
-
-You don't need to be an experienced developer.
-
-OSDC is for you if you:
-
-- 🌱 Want to get started with open source
-- 💻 Want to build real-world projects
-- 🤝 Want experience collaborating with other developers
-- 🧠 Want to improve your development skills
-- 🔧 Enjoy building or experimenting with technology
-- 🌍 Want to contribute to existing open-source projects
-- 🚀 Want to participate in programs such as GSoC, LFX or Outreachy
-- 👥 Simply want to meet and build things with other developers
-
-Open source isn't only about writing code either.
-
-Contributions can include:
-
-- Documentation
-- UI/UX
-- Testing
-- Bug reports
-- Feature ideas
-- Design
-- Project management
-- Code reviews
-- Community support
-
-There's always something to contribute.
-
----
-
-# 👥 Community
-
-OSDC is built around **learning together**.
-
-Members are encouraged to:
-
-- share interesting projects
-- propose project ideas
-- help other contributors
-- conduct technical sessions
-- review pull requests
-- improve documentation
-- contribute to existing open-source projects
-- experiment with new technologies
-
-You don't have to stay limited to one technology or project.
-
-Explore different areas and find what interests you.
-
----
-
 ### 📖 Guides
 
 Useful guides and resources for learning development and contributing to open source.
@@ -145,27 +73,3 @@ Slides, presentations, and resources from OSDC workshops and technical sessions.
 Information about different roles and responsibilities within OSDC.
 
 ➡️ [View Roles](./Roles)
-
----
-
-# 🌍 Open Source Opportunities
-
-Once you're comfortable contributing, there are several open-source programs you can explore.
-
-### Google Summer of Code (GSoC)
-
-A global program where contributors work with open-source organizations on larger projects.
-
-### LFX Mentorship
-
-Mentorship programs run through the Linux Foundation across many open-source projects.
-
-### Outreachy
-
-A program offering internships with open-source and open-science communities.
-
-### Hacktoberfest
-
-An annual event encouraging developers to participate in open source.
-
-These programs should not be the **reason** you contribute to open source — think of them as opportunities that become accessible as you gain experience working with open-source communities.
