@@ -1,75 +1,45 @@
 # Cybros OSDC
 
-Welcome to **Cybros OSDC (Open Source Developers Community)**, the open-source wing of the **Cybros Coding Club, LNMIIT**.
+**Cybros OSDC (Open Source Developers Community)** is the open-source wing of **Cybros Coding Club, LNMIIT**.
 
-This repository is the central place for information about the community — how OSDC works, how to get involved, member information, roles, guides, presentations, and other useful resources.
+This repository contains information and resources related to OSDC, including community members, roles, guides, presentations, and other useful material.
 
----
+## What is OSDC?
 
-### What is OSDC?
+OSDC is a community for students at LNMIIT who are interested in open source and software development.
 
-**OSDC (Open Source Developers Community)** is the open-source community under **Cybros Coding Club at LNMIIT**.
-
-Our goal is to help students move beyond solving isolated programming problems and start **building, collaborating, and contributing to real-world software**.
-
-We aim to create an environment where students can learn open-source development by actually participating in it.
+The idea is simple: instead of only learning through courses or coding problems, we want students to work together on projects, contribute to existing open-source projects, and learn from each other.
 
 > **Learn. Build. Collaborate. Contribute.**
 
----
+## What do we do?
 
-### What do we do?
+OSDC works on open-source projects and helps students get started with contributing to existing projects. We conduct technical sessions and workshops, work together on projects, share useful resources and opportunities, and help members understand open-source workflows. The community also supports students interested in programs such as GSoC and LFX by helping them get familiar with the contribution process and the projects they want to work on.
 
-OSDC focuses on learning through collaboration and practical development.
+## Topics
 
-We:
+The community covers a range of topics related to software development and open source. These include Git and GitHub, web and backend development, DevOps, Linux, AI/ML, APIs, databases, open-source contribution workflows, and general software engineering practices. The topics are not fixed and can change based on the projects, sessions, and interests of the members.
 
-- 🛠 Build and maintain open-source projects
-- 🌱 Help beginners make their first open-source contributions
-- 🎤 Organize technical sessions and workshops
-- 🤝 Collaborate on real-world software projects
-- 🧑‍💻 Mentor students interested in open-source development
-- 🌍 Encourage contributions to open-source organizations
-- 📚 Share resources, guides, and opportunities
-- 🚀 Help students prepare for open-source programs
+## Guides
 
-Topics covered by the community may include:
+Guides and resources for development and open-source contributions.
 
-- Git & GitHub
-- Web Development
-- Backend Development
-- DevOps
-- Linux
-- AI / ML
-- APIs
-- Databases
-- Open Source Contribution Workflows
-- Software Engineering Practices
+[Explore Guides](./Guides)
 
-And anything else the community finds interesting.
+## Members
 
----
+Details about current and previous OSDC members.
 
-### 📖 Guides
+[View Members](./Members)
 
-Useful guides and resources for learning development and contributing to open source.
+## Presentations
 
-➡️ [Explore Guides](./Guides)
+Slides and resources from OSDC sessions and workshops.
 
-### 👥 Members
+[View Presentations](./Presentations)
 
-Information about OSDC members and previous batches.
+## Roles
 
-➡️ [View Members](./Members)
+Details about the different roles in OSDC and what they involve.
 
-### 🎤 Presentations
-
-Slides, presentations, and resources from OSDC workshops and technical sessions.
-
-➡️ [View Presentations](./Presentations)
-
-### 🧑‍💻 Roles
-
-Information about different roles and responsibilities within OSDC.
-
-➡️ [View Roles](./Roles)
+[View Roles](./Roles)
